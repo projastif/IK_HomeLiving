@@ -67,15 +67,6 @@
 
   </header><!-- End Header -->
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero">
-    <div class="hero-container">
-      <h1>Indira Kader Home Living</h1>
-      <h2>professional classicism interior design </h2>
-      <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
-    </div>
-  </section><!-- End Hero -->
-
   <!--body-->
   @yield('content')
   <!--end body-->
@@ -88,7 +79,7 @@
       <div class="social-links">
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-mail"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-   mail"></i></a>
       </div>
       <div class="copyright">
         &copy; Copyright <strong><span>@IK.HomeLiving</span></strong>. All Rights Reserved
