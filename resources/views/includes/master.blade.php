@@ -88,7 +88,7 @@
       <div class="social-links">
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-mail"></i></a>
+        <a href="#" class="google-plus"><i class="bx bx-envelope"></i></a>
       </div>
       <div class="copyright">
         &copy; Copyright <strong><span>@IK.HomeLiving</span></strong>. All Rights Reserved
@@ -102,8 +102,6 @@
       </div>
     </div>
   </footer><!-- End Footer -->
-
-  
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 

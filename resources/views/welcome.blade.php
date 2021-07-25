@@ -2,8 +2,6 @@
 
 @section('content')
 
-
-
 <main id="main">
 
   <!-- ======= About Me Section ======= -->
@@ -180,41 +178,41 @@
       <div class="container">
 
         <div class="section-title">
-          <span>My Services</span>
-          <h2>My Services</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <span>Our Services</span>
+          <h2>Our Services</h2>
+          <p>Kami siap memberikan Anda pengalaman pelayanan terbaik</p>
         </div>
 
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">Desainer Profesional</a></h4>
+              <p class="description">Tim kami akan mengkreasikan ruangan sesuai dengan keinginan Anda</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4 class="title"><a href="">Proses Mudah</a></h4>
+              <p class="description">Anda dapat berkomunikasi langsung dengan desainer profesional</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="">Sesuai Anggaran</a></h4>
+              <p class="description">Eksplorasi berbagai konsep desain terbaik sesuai anggaran dekorasi Anda</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 class="title"><a href="">Pengerjaan Cepat</a></h4>
+              <p class="description">Anda dapat menerima desain yang Anda inginkan dengan tepat waktu</p>
             </div>
           </div>
 
@@ -441,16 +439,77 @@
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
-
-
-
-
-
-
-
         </div>
       </div>
     </section><!-- End My Portfolio Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="chefs" class="chefs">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <span>Team</span>
+          <h2>Team</h2>
+          <p>Meet Our Proffesional Team</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="member" data-aos="zoom-in" data-aos-delay="200">
+              <img src="assets/img/images2.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Bambang J. Rahadi</h4>
+                  <span>as ....</span>
+                </div>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="member" data-aos="zoom-in" data-aos-delay="100">
+              <img src="assets/img/images.png" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Indira Mariam K.</h4>
+                  <span>as ....</span>
+                </div>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="member" data-aos="zoom-in" data-aos-delay="300">
+              <img src="assets/img/images2.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Kubrajaya Kader</h4>
+                  <span>as ....</span>
+                </div>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Team Section -->
 
 
     <!-- ======= Contact Me Section ======= -->
@@ -458,9 +517,9 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Contact Me</span>
-          <h2>Contact Me</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <span>Contact Us</span>
+          <h2>Contact Us</h2>
+          <p>Silahkan hubungi kami dengan mengisi formulir di bawah ini</p>
         </div>
 
         <div class="row">
@@ -473,26 +532,25 @@
                   <i class="bx bx-share-alt"></i>
                   <h3>Social Profiles</h3>
                   <div class="social-links">
-                    <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+                    <a href="#" class="google-plus"><i class="bi bi-envelope"></i></a>
                     <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
                     <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                    <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-                    <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                    
                   </div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-envelope"></i>
-                  <h3>Email Me</h3>
-                  <p>contact@example.com</p>
+                  <h3>Email</h3>
+                  <p>ask.ikhomeliving@gmail.com</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
-                  <i class="bx bx-phone-call"></i>
-                  <h3>Call Me</h3>
-                  <p>+1 5589 55488 55</p>
+                  <i class="bx bxl-whatsapp"></i>
+                  <h3>WhatsApp</h3>
+                  <p>085156654621</p>
                 </div>
               </div>
             </div>
@@ -549,5 +607,8 @@
         </div>
       </div>
     </div>
+  </div>
+
+
 
     @endsection
