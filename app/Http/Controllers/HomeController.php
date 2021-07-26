@@ -15,7 +15,15 @@ class HomeController extends Controller
         return view ('welcome');
     }
 
-    public function bitung1(){
-        return view('detail_bitung1');
+    public function p_manado(){
+        return view('p_manado');
+    }
+
+    public function p_solo(){
+        return view('p_solo');
+    }
+
+    public function p_jogja(){
+        return view('p_jogja');
     }
 }

@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/favicon.jpg" rel="icon">
+  <link href="assets/img/favicon.jpg" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Satisfy" rel="stylesheet">
@@ -48,7 +48,7 @@
         <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
         <li class="dropdown"><a href="#"><span>Projects</span> <i class="bi bi-chevron-down"></i></a>
           <ul>
-            <li><a href="/detail_bitung1">Manado</a></li>
+            <li><a href="/proyekmanado">Manado</a></li>
             <!--li class="dropdown"><a href="#"><span>Projects</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
                 <li><a href="#">Manado (Bitung)</a></li>
@@ -56,8 +56,8 @@
                 <li><a href="#">Yogyakarta</a></li>
               </ul>
             </li-->
-            <li><a href="/detail_solo">Solo</a></li>
-            <li><a href="/detail_yogya">Yogyakarta</a></li>
+            <li><a href="/proyeksolo">Solo</a></li>
+            <li><a href="/proyekyogya">Yogyakarta</a></li>
           </ul>
         </li>
         <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
