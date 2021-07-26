@@ -100,7 +100,7 @@
       </div>
     </section><!-- End About Me Section -->
 
-    <!-- ======= My Resume Section ======= -->
+    <!-- ======= My Resume Section ======= >
     <section id="resume" class="resume">
       <div class="container">
 
@@ -171,7 +171,7 @@
         </div>
 
       </div>
-    </section><!-- End My Resume Section -->
+    </section><! End My Resume Section -->
 
     <!-- ======= My Services Section ======= -->
     <section id="services" class="services">
@@ -186,7 +186,7 @@
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <div class="icon"><i class="bx bx-pencil"></i></div>
               <h4 class="title"><a href="">Desainer Profesional</a></h4>
               <p class="description">Tim kami akan mengkreasikan ruangan sesuai dengan keinginan Anda</p>
             </div>
@@ -202,7 +202,7 @@
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <div class="icon"><i class="bx bx-money"></i></div>
               <h4 class="title"><a href="">Sesuai Anggaran</a></h4>
               <p class="description">Eksplorasi berbagai konsep desain terbaik sesuai anggaran dekorasi Anda</p>
             </div>
@@ -210,7 +210,7 @@
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-world"></i></div>
+              <div class="icon"><i class="bx bx-time-five"></i></div>
               <h4 class="title"><a href="">Pengerjaan Cepat</a></h4>
               <p class="description">Anda dapat menerima desain yang Anda inginkan dengan tepat waktu</p>
             </div>
@@ -224,6 +224,11 @@
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
       <div class="container position-relative">
+
+        <div class="section-title">
+          <span style="color: gray;">Testimonials</span>
+          <h2 style="color: whitesmoke;">Testimonials</h2>
+        </div>
 
         <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
@@ -305,9 +310,9 @@
       <div class="container">
 
         <div class="section-title">
-          <span>My Portfolio</span>
-          <h2>My Portfolio</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <span>Completed Projects</span>
+          <h2>Completed Projects</h2>
+          <p>Berikut beberapa proyek yang telah kami selesaikan</p>
         </div>
 
         <ul id="portfolio-flters" class="d-flex justify-content-center">
@@ -323,120 +328,121 @@
           <div class="col-lg-4 col-md-6 portfolio-item filter-solo">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/solo/solo6.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/proyek/solo/solo6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Project Solo - Sumber</h4>
+              <p>Living Room</p>
+              <a href="assets/img/portfolio/proyek/solo/solo6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/jogja/jogja2.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/proyek/jogja/jogja2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Project Yogyakarta - Condong Catur</h4>
+              <p>Bathroom</p>
+              <a href="assets/img/portfolio/proyek/jogja/jogja2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
+
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-bitung">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung8.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/proyek/bitung/bitung8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Project Manado - Bitung</h4>
+              <p>Bathroom</p>
+              <a href="assets/img/portfolio/proyek/bitung/bitung8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-solo">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/solo/solo3.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/proyek/solo/solo3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Project Solo - Sumber </h4>
+              <p>Dining Room</p>
+              <a href="assets/img/portfolio/proyek/solo/solo3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Dining Room from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-desain">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/desain/desain1.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/proyek/desain/desain1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Design</h4>
+              <p>Walk in Closet</p>
+              <a href="assets/img/portfolio/proyek/desain/desain1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Walk in Closet from Design (Example)"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>          
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-bitung">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung5.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/proyek/bitung/bitung5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Project Manado - Bitung</h4>
+              <p>Stairs</p>
+              <a href="assets/img/portfolio/proyek/bitung/bitung5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Stairs from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-solo">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/solo/solo9.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/proyek/solo/solo9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Project Solo - Sumber</h4>
+              <p>Sitting Room</p>
+              <a href="assets/img/portfolio/proyek/solo/solo9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Sitting Room from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>         
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/jogja/jogja4.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/proyek/jogja/jogja4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Project Yogyakarta - Condong Catur</h4>
+              <p>Bedroom</p>
+              <a href="assets/img/portfolio/proyek/jogja/jogja4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-desain">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/desain/desain2.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/proyek/desain/desain2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Design</h4>
+              <p>Living Room</p>
+              <a href="assets/img/portfolio/proyek/desain/desain2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Design (Example)"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/jogja/jogja5.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/proyek/jogja/jogja5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Project Yogyakarta - Condong Catur</h4>
+              <p>Reading Corner</p>
+              <a href="assets/img/portfolio/proyek/jogja/jogja5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-desain">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/desain/desain3.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/proyek/desain/desain3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Design</h4>
+              <p>Teenage Bedroom</p>
+              <a href="assets/img/portfolio/proyek/desain/desain3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Teenage from Design (Example)"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-bitung">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung6.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/proyek/bitung/bitung6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Project Manado - Bitung</h4>
+              <p>Upstairs Section</p>
+              <a href="assets/img/portfolio/proyek/bitung/bitung6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Upstairs Section from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
         </div>
@@ -456,7 +462,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="member" data-aos="zoom-in" data-aos-delay="200">
-              <img src="assets/img/images2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/omibam.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Bambang J. Rahadi</h4>
@@ -474,7 +480,7 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="member" data-aos="zoom-in" data-aos-delay="100">
-              <img src="assets/img/images.png" class="img-fluid" alt="">
+              <img src="assets/img/mami.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Indira Mariam K.</h4>
@@ -492,7 +498,7 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="member" data-aos="zoom-in" data-aos-delay="300">
-              <img src="assets/img/images2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/omkub.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Kubrajaya Kader</h4>
