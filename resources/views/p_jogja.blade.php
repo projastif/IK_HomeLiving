@@ -1,12 +1,22 @@
 @extends('includes.master')
 
 @section('content')
+
+<!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <h1>Project</h1>
+      <h2>Yogyakarta - Condong Catur</h2>
+      <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
+    </div>
+  </section><!-- End Hero -->
+
 <!-- ======= About Me Section ======= -->
 <section id="about" class="about">
 	<div class="container">
 		<div class="section-title">
-			<span>Project Yogyakarta</span>
-			<h2>Project Yogyakarta</h2>
+			<span>Project Manado</span>
+			<h2>Project Manado</h2>
 			<!--p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p-->
 		</div>
 

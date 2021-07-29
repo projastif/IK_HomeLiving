@@ -1,18 +1,27 @@
 @extends('includes.master')
 
 @section('content')
+<!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <h1>Project</h1>
+      <h2>Manado - Bitung</h2>
+      <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
+    </div>
+  </section><!-- End Hero -->
+  
 <!-- ======= About Me Section ======= -->
 <section id="about" class="about">
   <div class="container">
     <div class="section-title">
-      <span>Project Yogyakarta</span>
-      <h2>Project Yogyakarta</h2>
+      <span>Project Manado</span>
+      <h2>Project Manado</h2>
       <!--p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p-->
     </div>
 
     <div class="row" style="padding-bottom: 70px;">
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start">
-        <img src="assets/img/detail/jogja/after/2.jpg" style="width: 550px;">
+        <img src="assets/img/detail/manado/1.jpg" style="width: 550px;">
       </div>
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start">
         <div class="col-lg-12 d-flex flex-column align-items-stretch">
@@ -52,12 +61,12 @@
       </div>
 
       <div class="col-lg-8 d-flex align-items-stretch justify-content-center justify-content-lg-start">
-        <img src="assets/img/detail/jogja/after/3.jpg" style="width: 750px;">
+        <img src="assets/img/detail/manado/4.jpg" style="width: 750px;">
       </div>
     </div>
   </div>
 
-  <div class="container">
+  <!--div class="container">
     <div class="section-title">
       <span>Before - After</span>
       <h2>Before - After</h2>
@@ -68,18 +77,18 @@
         <img src="assets/img/detail/jogja/before/1.jpg" style="width: 550px;">
       </div>
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start" style="margin-bottom: 25px;">
-        <img src="assets/img/detail/jogja/after/2.jpg" style="width: 550px;">
+        <img src="assets/img/detail/manado/2.jpg" style="width: 550px;">
       </div>  
 
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start">
         <img src="assets/img/detail/jogja/before/2.jpg" style="width: 550px;">
       </div>
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start">
-        <img src="assets/img/detail/jogja/after/4.jpg" style="width: 550px;">
+        <img src="assets/img/detail/manado/4.jpg" style="width: 550px;">
       </div>  
     </div>
     
-  </div>
+  </div-->
 </div>
 </section><!-- End About Me Section -->
 
@@ -98,51 +107,51 @@
 
     <div class="row portfolio-container">
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung1.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/manado/1.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Bathroom</p>
-          <a href="assets/img/portfolio/proyek/bitung/bitung1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/manado/1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
           <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung2.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/manado/2.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Bedroom</p>
-          <a href="assets/img/portfolio/proyek/bitung/bitung2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/manado/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
           <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung3.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/manado/3.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/portfolio/proyek/bitung/bitung3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/manado/3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
           <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung4.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/manado/4.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/portfolio/proyek/bitung/bitung4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/manado/4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
           <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung5.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/manado/5.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/portfolio/proyek/bitung/bitung5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/manado/5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
           <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
         </div>
       </div>
@@ -151,41 +160,41 @@
 
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung6.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/manado/6.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Bedroom</p>
-          <a href="assets/img/portfolio/proyek/bitung/bitung6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/manado/6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
           <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung7.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/manado/7.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/portfolio/proyek/bitung/bitung7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/manado/7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
           <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung8.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/manado/8.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/portfolio/proyek/bitung/bitung8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/manado/8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
           <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung9.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/manado/9.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/portfolio/proyek/bitung/bitung9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/manado/9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
           <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
         </div>
       </div>

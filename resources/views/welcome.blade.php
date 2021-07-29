@@ -3,6 +3,14 @@
 @section('content')
 
 <main id="main">
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <h1>Indira Kader Home Living</h1>
+      <h2>professional classicism interior design </h2>
+      <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
+    </div>
+  </section><!-- End Hero -->
 
     <!-- ======= My Resume Section ======= >
     <section id="resume" class="resume">
