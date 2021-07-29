@@ -20,3 +20,4 @@ Route::get('/', [HomeController::class, 'index']);
 Route::get('/proyekmanado', [HomeController::class, 'p_manado']);
 Route::get('/proyeksolo', [HomeController::class, 'p_solo']);
 Route::get('/proyekyogya', [HomeController::class, 'p_jogja']);
+Route::get('/proyekjakarta', [HomeController::class, 'p_jakarta']);

@@ -26,4 +26,8 @@ class HomeController extends Controller
     public function p_jogja(){
         return view('p_jogja');
     }
+
+    public function p_jakarta(){
+        return view('p_jakarta');
+    }
 }

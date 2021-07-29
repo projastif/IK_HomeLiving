@@ -222,8 +222,8 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Completed Projects</span>
-          <h2>Completed Projects</h2>
+          <span>Gallery Projects</span>
+          <h2>Gallery Projects</h2>
           <p>Berikut beberapa proyek yang telah kami selesaikan</p>
         </div>
 
@@ -243,7 +243,6 @@
               <h4>Project Solo - Sumber</h4>
               <p>Living Room</p>
               <a href="assets/img/portfolio/proyek/solo/solo6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
@@ -253,7 +252,6 @@
               <h4>Project Yogyakarta - Condong Catur</h4>
               <p>Bathroom</p>
               <a href="assets/img/portfolio/proyek/jogja/jogja2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
@@ -264,7 +262,6 @@
               <h4>Project Manado - Bitung</h4>
               <p>Bathroom</p>
               <a href="assets/img/portfolio/proyek/bitung/bitung8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
@@ -274,7 +271,6 @@
               <h4>Project Solo - Sumber </h4>
               <p>Dining Room</p>
               <a href="assets/img/portfolio/proyek/solo/solo3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Dining Room from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
@@ -284,7 +280,6 @@
               <h4>Design</h4>
               <p>Walk in Closet</p>
               <a href="assets/img/portfolio/proyek/desain/desain1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Walk in Closet from Design (Example)"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>          
 
@@ -294,7 +289,6 @@
               <h4>Project Manado - Bitung</h4>
               <p>Stairs</p>
               <a href="assets/img/portfolio/proyek/bitung/bitung5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Stairs from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
@@ -304,7 +298,6 @@
               <h4>Project Solo - Sumber</h4>
               <p>Sitting Room</p>
               <a href="assets/img/portfolio/proyek/solo/solo9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Sitting Room from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>         
 
@@ -314,7 +307,6 @@
               <h4>Project Yogyakarta - Condong Catur</h4>
               <p>Bedroom</p>
               <a href="assets/img/portfolio/proyek/jogja/jogja4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
@@ -324,7 +316,6 @@
               <h4>Design</h4>
               <p>Living Room</p>
               <a href="assets/img/portfolio/proyek/desain/desain2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Design (Example)"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
@@ -334,7 +325,6 @@
               <h4>Project Yogyakarta - Condong Catur</h4>
               <p>Reading Corner</p>
               <a href="assets/img/portfolio/proyek/jogja/jogja5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
@@ -344,7 +334,6 @@
               <h4>Design</h4>
               <p>Teenage Bedroom</p>
               <a href="assets/img/portfolio/proyek/desain/desain3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Teenage from Design (Example)"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
 
@@ -354,7 +343,6 @@
               <h4>Project Manado - Bitung</h4>
               <p>Upstairs Section</p>
               <a href="assets/img/portfolio/proyek/bitung/bitung6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Upstairs Section from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
-              <a href="portfolio-details.html" class="details-link" title=""><p>Detail</p></a>
             </div>
           </div>
         </div>

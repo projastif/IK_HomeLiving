@@ -6,7 +6,7 @@
   <section id="hero">
     <div class="hero-container">
       <h1>Project</h1>
-      <h2>Solo - Sumber</h2>
+      <h2>Jakarta - Pinang Ranti</h2>
       <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
     </div>
   </section><!-- End Hero -->
@@ -15,14 +15,14 @@
 <section id="about" class="about">
   <div class="container">
     <div class="section-title">
-      <span>Project Solo</span>
-      <h2>Project Solo</h2>
+      <span>Project Jakarta</span>
+      <h2>Project Jakarta</h2>
       <!--p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p-->
     </div>
 
     <div class="row" style="padding-bottom: 70px;">
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start">
-        <img src="assets/img/detail/solo/2.jpg" style="width: 550px;">
+        <img src="assets/img/detail/Jakarta/2.jpg" style="width: 550px;">
       </div>
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start">
         <div class="col-lg-12 d-flex flex-column align-items-stretch">
@@ -63,13 +63,13 @@
         </div>
       </div>
       <div class="col-lg-8 d-flex align-items-stretch justify-content-center justify-content-lg-start">
-        <img src="assets/img/detail/solo/5.jpg" style="width: 750px;">
+        <img src="assets/img/detail/Jakarta/5.jpg" style="width: 750px;">
       </div>
     </div>
 
     <div class="row" style="padding-bottom: 70px;">
       <div class="col-lg-9 d-flex align-items-stretch justify-content-center justify-content-lg-start">
-        <img src="assets/img/detail/solo/3.jpg" style="width: 820px;">
+        <img src="assets/img/detail/Jakarta/3.jpg" style="width: 730px;">
       </div>
       <div class="col-lg-3 d-flex align-items-stretch justify-content-center justify-content-lg-start">
         <div class="col-lg-12 d-flex flex-column align-items-stretch">
@@ -95,17 +95,17 @@
 
     <div class="row">
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start" style="margin-bottom: 25px;">
-        <img src="assets/img/detail/solo/2.jpg" style="width: 550px;">
+        <img src="assets/img/detail/Jakarta/2.jpg" style="width: 550px;">
       </div>
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start" style="margin-bottom: 25px;">
-        <img src="assets/img/detail/solo/3.jpg" style="width: 550px;">
+        <img src="assets/img/detail/Jakarta/3.jpg" style="width: 550px;">
       </div>  
 
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start">
-        <img src="assets/img/detail/solo/2b.jpg" style="width: 550px;">
+        <img src="assets/img/detail/Jakarta/2b.jpg" style="width: 550px;">
       </div>
       <div class="col-lg-6 d-flex align-items-stretch justify-content-center justify-content-lg-start">
-        <img src="assets/img/detail/solo/3b.jpg" style="width: 550px;">
+        <img src="assets/img/detail/Jakarta/3b.jpg" style="width: 550px;">
       </div>  
     </div>
     
@@ -125,83 +125,83 @@
 
     <div class="row portfolio-container">
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/detail/solo/1.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/Jakarta/1.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
-          <h4>Project Solo - Sumber</h4>
+          <h4>Project Jakarta - Pinang Ranti</h4>
           <p>Bathroom</p>
-          <a href="assets/img/detail/solo/1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/Jakarta/1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Jakarta - Pinang Ranti"><p>View &nbsp&nbsp&nbsp</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/detail/solo/2.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/Jakarta/2.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
-          <h4>Project Solo - Sumber</h4>
+          <h4>Project Jakarta - Pinang Ranti</h4>
           <p>Bedroom</p>
-          <a href="assets/img/detail/solo/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/Jakarta/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Jakarta - Pinang Ranti"><p>View &nbsp&nbsp&nbsp</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/detail/solo/3.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/Jakarta/3.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
-          <h4>Project Solo - Sumber</h4>
+          <h4>Project Jakarta - Pinang Ranti</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/detail/solo/3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/Jakarta/3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Jakarta - Pinang Ranti"><p>View &nbsp&nbsp&nbsp</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/detail/solo/4.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/Jakarta/4.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
-          <h4>Project Solo - Sumber</h4>
+          <h4>Project Jakarta - Pinang Ranti</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/detail/solo/4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/Jakarta/4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Jakarta - Pinang Ranti"><p>View &nbsp&nbsp&nbsp</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/detail/solo/5.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/Jakarta/5.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
-          <h4>Project Solo - Sumber</h4>
+          <h4>Project Jakarta - Pinang Ranti</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/detail/solo/5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/Jakarta/5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Jakarta - Pinang Ranti"><p>View &nbsp&nbsp&nbsp</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/detail/solo/6.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/Jakarta/6.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
-          <h4>Project Solo - Sumber</h4>
+          <h4>Project Jakarta - Pinang Ranti</h4>
           <p>Bedroom</p>
-          <a href="assets/img/detail/solo/6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/Jakarta/6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Jakarta - Pinang Ranti"><p>View &nbsp&nbsp&nbsp</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/detail/solo/10.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/Jakarta/10.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
-          <h4>Project Solo - Sumber</h4>
+          <h4>Project Jakarta - Pinang Ranti</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/detail/solo/9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/Jakarta/9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Jakarta - Pinang Ranti"><p>View &nbsp&nbsp&nbsp</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/detail/solo/9.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/Jakarta/9.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
-          <h4>Project Solo - Sumber</h4>
+          <h4>Project Jakarta - Pinang Ranti</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/detail/solo/7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/Jakarta/7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Jakarta - Pinang Ranti"><p>View &nbsp&nbsp&nbsp</p></a>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-jogja">
-        <div class="portfolio-img"><img src="assets/img/detail/solo/8.jpg" class="img-fluid" alt=""></div>
+        <div class="portfolio-img"><img src="assets/img/detail/Jakarta/8.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
-          <h4>Project Solo - Sumber</h4>
+          <h4>Project Jakarta - Pinang Ranti</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/detail/solo/8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+          <a href="assets/img/detail/Jakarta/8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Jakarta - Pinang Ranti"><p>View &nbsp&nbsp&nbsp</p></a>
         </div>
       </div>
     </div>

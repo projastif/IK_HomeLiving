@@ -43,10 +43,14 @@
       <ul>
         <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
         <li><a class="nav-link scrollto" href="#services">Services</a></li>
-        <li><a class="nav-link scrollto" href="#resume">Testimonials</a></li>
-        <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+        <li><a class="nav-link scrollto" href="#testimonials">Testimonials</a></li>
+        <li><a class="nav-link scrollto " href="#portfolio">Gallery</a></li>
+        <li><a class="nav-link scrollto" href="#chefs">Team</a></li>
+        <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        <li><a class="nav-link scrollto" href="#about">About</a></li>
         <li class="dropdown"><a href="#"><span>Projects</span> <i class="bi bi-chevron-down"></i></a>
           <ul>
+            <li><a href="/proyeksolo">Solo</a></li>
             <li><a href="/proyekmanado">Manado</a></li>
             <!--li class="dropdown"><a href="#"><span>Projects</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
@@ -55,12 +59,10 @@
                 <li><a href="#">Yogyakarta</a></li>
               </ul>
             </li-->
-            <li><a href="/proyeksolo">Solo</a></li>
+            <li><a href="/proyekjakarta">Jakarta</a></li>
             <li><a href="/proyekyogya">Yogyakarta</a></li>
           </ul>
         </li>
-        <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-        <li><a class="nav-link scrollto" href="#about">About</a></li>
         
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
