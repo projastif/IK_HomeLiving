@@ -3,20 +3,20 @@
 @section('content')
 
 <!-- ======= Hero Section ======= -->
-  <section id="hero">
-    <div class="hero-container">
-      <h1>Project</h1>
-      <h2>Yogyakarta - Condong Catur</h2>
-      <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
-    </div>
-  </section><!-- End Hero -->
+<section id="hero">
+	<div class="hero-container">
+		<h1>Project</h1>
+		<h2>Yogyakarta - Condong Catur</h2>
+		<a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
+	</div>
+</section><!-- End Hero -->
 
 <!-- ======= About Me Section ======= -->
 <section id="about" class="about">
 	<div class="container">
 		<div class="section-title">
-			<span>Project Manado</span>
-			<h2>Project Manado</h2>
+			<span>Project Yogyakarta</span>
+			<h2>Project Yogyakarta</h2>
 			<!--p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p-->
 		</div>
 
@@ -111,8 +111,8 @@
 				<div class="portfolio-img"><img src="assets/img/portfolio/proyek/jogja/jogja1.jpg" class="img-fluid" alt=""></div>
 				<div class="portfolio-info">
 					<h4>Project Yogyakarta - Condong Catur</h4>
-					<p>Bathroom</p>
-					<a href="assets/img/portfolio/proyek/jogja/jogja1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
+					<p>Painting Section</p>
+					<a href="assets/img/portfolio/proyek/jogja/jogja1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Painting Section from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
 				</div>
 			</div>
 
@@ -120,8 +120,8 @@
 				<div class="portfolio-img"><img src="assets/img/portfolio/proyek/jogja/jogja2.jpg" class="img-fluid" alt=""></div>
 				<div class="portfolio-info">
 					<h4>Project Yogyakarta - Condong Catur</h4>
-					<p>Bedroom</p>
-					<a href="assets/img/portfolio/proyek/jogja/jogja2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
+					<p>Bathroom</p>
+					<a href="assets/img/portfolio/proyek/jogja/jogja2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
 				</div>
 			</div>
 
@@ -129,8 +129,8 @@
 				<div class="portfolio-img"><img src="assets/img/portfolio/proyek/jogja/jogja3.jpg" class="img-fluid" alt=""></div>
 				<div class="portfolio-info">
 					<h4>Project Yogyakarta - Condong Catur</h4>
-					<p>Reading Corner</p>
-					<a href="assets/img/portfolio/proyek/jogja/jogja3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
+					<p>Bedroom</p>
+					<a href="assets/img/portfolio/proyek/jogja/jogja3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
 				</div>
 			</div>
 
@@ -138,8 +138,8 @@
 				<div class="portfolio-img"><img src="assets/img/portfolio/proyek/jogja/jogja4.jpg" class="img-fluid" alt=""></div>
 				<div class="portfolio-info">
 					<h4>Project Yogyakarta - Condong Catur</h4>
-					<p>Reading Corner</p>
-					<a href="assets/img/portfolio/proyek/jogja/jogja4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
+					<p>Bedroom</p>
+					<a href="assets/img/portfolio/proyek/jogja/jogja4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
 				</div>
 			</div>
 

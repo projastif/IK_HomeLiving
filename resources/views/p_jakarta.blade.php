@@ -120,8 +120,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/Jakarta/1.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Jakarta - Pinang Ranti</h4>
-          <p>Bathroom</p>
-          <a href="assets/img/detail/Jakarta/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
+          <p>Bedroom</p>
+          <a href="assets/img/detail/Jakarta/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -129,8 +129,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/Jakarta/6.png" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Jakarta - Pinang Ranti</h4>
-          <p>Bedroom</p>
-          <a href="assets/img/detail/Jakarta/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
+          <p>Living Room</p>
+          <a href="assets/img/detail/Jakarta/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -138,8 +138,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/Jakarta/3.png" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Jakarta - Pinang Ranti</h4>
-          <p>Reading Corner</p>
-          <a href="assets/img/detail/Jakarta/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
+          <p>Bedroom</p>
+          <a href="assets/img/detail/Jakarta/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -147,8 +147,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/Jakarta/4.png" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Jakarta - Pinang Ranti</h4>
-          <p>Reading Corner</p>
-          <a href="assets/img/detail/Jakarta/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
+          <p>Work Section</p>
+          <a href="assets/img/detail/Jakarta/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Work Section from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -156,8 +156,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/Jakarta/6.png" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Jakarta - Pinang Ranti</h4>
-          <p>Bedroom</p>
-          <a href="assets/img/detail/Jakarta/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
+          <p>Living Room</p>
+          <a href="assets/img/detail/Jakarta/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -165,8 +165,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/Jakarta/9.png" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Jakarta - Pinang Ranti</h4>
-          <p>Reading Corner</p>
-          <a href="assets/img/detail/Jakarta/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
+          <p>Kitchen</p>
+          <a href="assets/img/detail/Jakarta/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kitchen from Project Jakarta - Pinang Ranti"><i class="bx bx-show"></i></a>
         </div>
       </div>
     </div>

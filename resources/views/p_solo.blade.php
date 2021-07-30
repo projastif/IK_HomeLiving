@@ -3,13 +3,13 @@
 @section('content')
 
 <!-- ======= Hero Section ======= -->
-  <section id="hero">
-    <div class="hero-container">
-      <h1>Project</h1>
-      <h2>Solo - Sumber</h2>
-      <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
-    </div>
-  </section><!-- End Hero -->
+<section id="hero">
+  <div class="hero-container">
+    <h1>Project</h1>
+    <h2>Solo - Sumber</h2>
+    <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
+  </div>
+</section><!-- End Hero -->
 
 <!-- ======= About Me Section ======= -->
 <section id="about" class="about">
@@ -128,8 +128,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/solo/1.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Solo - Sumber</h4>
-          <p>Bathroom</p>
-          <a href="assets/img/detail/solo/1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Solo - Sumber"><i class="bx bx-show"></i></a>
+          <p>Living Room</p>
+          <a href="assets/img/detail/solo/1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Solo - Sumber"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -137,8 +137,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/solo/2.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Solo - Sumber</h4>
-          <p>Bedroom</p>
-          <a href="assets/img/detail/solo/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Solo - Sumber"><i class="bx bx-show"></i></a>
+          <p>Sitting Room</p>
+          <a href="assets/img/detail/solo/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Sitting Room from Project Solo - Sumber"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -146,8 +146,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/solo/3.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Solo - Sumber</h4>
-          <p>Reading Corner</p>
-          <a href="assets/img/detail/solo/3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Solo - Sumber"><i class="bx bx-show"></i></a>
+          <p>Master Bedroom</p>
+          <a href="assets/img/detail/solo/3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Master Bedroom from Project Solo - Sumber"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -164,8 +164,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/solo/5.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Solo - Sumber</h4>
-          <p>Reading Corner</p>
-          <a href="assets/img/detail/solo/5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Solo - Sumber"><i class="bx bx-show"></i></a>
+          <p>Living Room</p>
+          <a href="assets/img/detail/solo/5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Solo - Sumber"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -173,8 +173,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/solo/6.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Solo - Sumber</h4>
-          <p>Bedroom</p>
-          <a href="assets/img/detail/solo/6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Solo - Sumber"><i class="bx bx-show"></i></a>
+          <p>Living Room</p>
+          <a href="assets/img/detail/solo/6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Solo - Sumber"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -200,8 +200,8 @@
         <div class="portfolio-img"><img src="assets/img/detail/solo/8.jpg" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
           <h4>Project Solo - Sumber</h4>
-          <p>Reading Corner</p>
-          <a href="assets/img/detail/solo/8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Solo - Sumber"><i class="bx bx-show"></i></a>
+          <p>Master Bedroom</p>
+          <a href="assets/img/detail/solo/8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Master Bedroom from Project Solo - Sumber"><i class="bx bx-show"></i></a>
         </div>
       </div>
     </div>
