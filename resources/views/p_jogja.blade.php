@@ -112,7 +112,7 @@
 				<div class="portfolio-info">
 					<h4>Project Yogyakarta - Condong Catur</h4>
 					<p>Bathroom</p>
-					<a href="assets/img/portfolio/proyek/jogja/jogja1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+					<a href="assets/img/portfolio/proyek/jogja/jogja1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
 				</div>
 			</div>
 
@@ -121,7 +121,7 @@
 				<div class="portfolio-info">
 					<h4>Project Yogyakarta - Condong Catur</h4>
 					<p>Bedroom</p>
-					<a href="assets/img/portfolio/proyek/jogja/jogja2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+					<a href="assets/img/portfolio/proyek/jogja/jogja2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
 				</div>
 			</div>
 
@@ -130,7 +130,7 @@
 				<div class="portfolio-info">
 					<h4>Project Yogyakarta - Condong Catur</h4>
 					<p>Reading Corner</p>
-					<a href="assets/img/portfolio/proyek/jogja/jogja3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+					<a href="assets/img/portfolio/proyek/jogja/jogja3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
 				</div>
 			</div>
 
@@ -139,7 +139,7 @@
 				<div class="portfolio-info">
 					<h4>Project Yogyakarta - Condong Catur</h4>
 					<p>Reading Corner</p>
-					<a href="assets/img/portfolio/proyek/jogja/jogja4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+					<a href="assets/img/portfolio/proyek/jogja/jogja4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
 				</div>
 			</div>
 
@@ -148,7 +148,7 @@
 				<div class="portfolio-info">
 					<h4>Project Yogyakarta - Condong Catur</h4>
 					<p>Reading Corner</p>
-					<a href="assets/img/portfolio/proyek/jogja/jogja5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+					<a href="assets/img/portfolio/proyek/jogja/jogja5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
 				</div>
 			</div>
 		</div>

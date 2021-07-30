@@ -107,7 +107,7 @@
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Bathroom</p>
-          <a href="assets/img/detail/manado/1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>com
+          <a href="assets/img/detail/manado/1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Manado - Bitung"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -116,7 +116,7 @@
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Bedroom</p>
-          <a href="assets/img/detail/manado/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>com
+          <a href="assets/img/detail/manado/2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Manado - Bitung"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -125,7 +125,7 @@
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/detail/manado/3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>com
+          <a href="assets/img/detail/manado/3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -134,7 +134,7 @@
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/detail/manado/4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>com
+          <a href="assets/img/detail/manado/4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -143,7 +143,7 @@
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Reading Corner</p>
-          <a href="assets/img/detail/manado/5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>com
+          <a href="assets/img/detail/manado/5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Manado - Bitung"><i class="bx bx-show"></i></a>
         </div>
       </div>
 
@@ -152,7 +152,7 @@
         <div class="portfolio-info">
           <h4>Project Manado - Bitung</h4>
           <p>Bedroom</p>
-          <a href="assets/img/detail/manado/6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>com
+          <a href="assets/img/detail/manado/6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Manado - Bitung"><i class="bx bx-show"></i></a>
         </div>
       </div>
     </div>

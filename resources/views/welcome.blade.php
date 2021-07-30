@@ -12,79 +12,6 @@
     </div>
   </section><!-- End Hero -->
 
-    <!-- ======= My Resume Section ======= >
-    <section id="resume" class="resume">
-      <div class="container">
-
-        <div class="section-title">
-          <span>My Resume</span>
-          <h2>My Resume</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6">
-            <h3 class="resume-title">Sumary</h3>
-            <div class="resume-item pb-0">
-              <h4>Alice Barkley</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
-              <p>
-                <ul>
-                  <li>Portland par 127,Orlando, FL</li>
-                  <li>(123) 456-7891</li>
-                  <li>alice.barkley@example.com</li>
-                </ul>
-              </p>
-            </div>
-
-            <h3 class="resume-title">Education</h3>
-            <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
-            </div>
-            <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <h3 class="resume-title">Professional Experience</h3>
-            <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
-              <p>
-                <ul>
-                  <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                  <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                  <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                  <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-                </ul>
-              </p>
-            </div>
-            <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
-              <p>
-                <ul>
-                  <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                  <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                  <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                  <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
-                </ul>
-              </p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><! End My Resume Section -->
-
     <!-- ======= My Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
@@ -231,6 +158,7 @@
           <li data-filter="*" class="filter-active">All</li>
           <li data-filter=".filter-bitung">Manado</li>
           <li data-filter=".filter-solo">Solo</li>
+          <li data-filter=".filter-jkt">Jakarta</li>
           <li data-filter=".filter-jogja">Yogyakarta</li>
           <li data-filter=".filter-desain">Desain</li>
         </ul>
@@ -241,8 +169,15 @@
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/solo/solo6.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Project Solo - Sumber</h4>
-              <p>Living Room</p>
-              <a href="assets/img/portfolio/proyek/solo/solo6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+              <p>Living Room<a href="assets/img/portfolio/proyek/solo/solo6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Solo - Sumber"><i class="bx bx-show"></i></a></p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-jkt">
+            <div class="portfolio-img"><img src="assets/img/portfolio/proyek/solo/solo6.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Project Solo - Sumber</h4>
+              <p>Living Room<a href="assets/img/portfolio/proyek/solo/solo6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Solo - Sumber"><i class="bx bx-show"></i></a></p>
             </div>
           </div>
 
@@ -251,7 +186,7 @@
             <div class="portfolio-info">
               <h4>Project Yogyakarta - Condong Catur</h4>
               <p>Bathroom</p>
-              <a href="assets/img/portfolio/proyek/jogja/jogja2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/jogja/jogja2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
             </div>
           </div>
 
@@ -261,7 +196,15 @@
             <div class="portfolio-info">
               <h4>Project Manado - Bitung</h4>
               <p>Bathroom</p>
-              <a href="assets/img/portfolio/proyek/bitung/bitung8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/bitung/bitung8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bathroom from Project Manado - Bitung"><i class="bx bx-show"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-jkt">
+            <div class="portfolio-img"><img src="assets/img/portfolio/proyek/solo/solo6.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Project Solo - Sumber</h4>
+              <p>Living Room<a href="assets/img/portfolio/proyek/solo/solo6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Solo - Sumber"><i class="bx bx-show"></i></a></p>
             </div>
           </div>
 
@@ -270,7 +213,7 @@
             <div class="portfolio-info">
               <h4>Project Solo - Sumber </h4>
               <p>Dining Room</p>
-              <a href="assets/img/portfolio/proyek/solo/solo3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Dining Room from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/solo/solo3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Dining Room from Project Solo - Sumber"><i class="bx bx-show"></i></a>
             </div>
           </div>
 
@@ -279,16 +222,24 @@
             <div class="portfolio-info">
               <h4>Design</h4>
               <p>Walk in Closet</p>
-              <a href="assets/img/portfolio/proyek/desain/desain1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Walk in Closet from Design (Example)"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/desain/desain1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Walk in Closet from Design (Example)"><i class="bx bx-show"></i></a>
             </div>
-          </div>          
+          </div>       
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-jkt">
+            <div class="portfolio-img"><img src="assets/img/portfolio/proyek/solo/solo6.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Project Solo - Sumber</h4>
+              <p>Living Room<a href="assets/img/detail/jakarta/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Project Solo - Sumber"><i class="bx bx-show"></i></a></p>
+            </div>
+          </div>   
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-bitung">
             <div class="portfolio-img"><img src="assets/img/portfolio/proyek/bitung/bitung5.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Project Manado - Bitung</h4>
               <p>Stairs</p>
-              <a href="assets/img/portfolio/proyek/bitung/bitung5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Stairs from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/bitung/bitung5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Stairs from Project Manado - Bitung"><i class="bx bx-show"></i></a>
             </div>
           </div>
 
@@ -297,7 +248,7 @@
             <div class="portfolio-info">
               <h4>Project Solo - Sumber</h4>
               <p>Sitting Room</p>
-              <a href="assets/img/portfolio/proyek/solo/solo9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Sitting Room from Project Solo - Sumber"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/solo/solo9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Sitting Room from Project Solo - Sumber"><i class="bx bx-show"></i></a>
             </div>
           </div>         
 
@@ -306,7 +257,7 @@
             <div class="portfolio-info">
               <h4>Project Yogyakarta - Condong Catur</h4>
               <p>Bedroom</p>
-              <a href="assets/img/portfolio/proyek/jogja/jogja4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/jogja/jogja4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Bedroom from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
             </div>
           </div>
 
@@ -315,7 +266,7 @@
             <div class="portfolio-info">
               <h4>Design</h4>
               <p>Living Room</p>
-              <a href="assets/img/portfolio/proyek/desain/desain2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Design (Example)"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/desain/desain2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Living Room from Design (Example)"><i class="bx bx-show"></i></a>
             </div>
           </div>
 
@@ -324,7 +275,7 @@
             <div class="portfolio-info">
               <h4>Project Yogyakarta - Condong Catur</h4>
               <p>Reading Corner</p>
-              <a href="assets/img/portfolio/proyek/jogja/jogja5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/jogja/jogja5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Reading Corner from Project Yogyakarta - Condong Catur"><i class="bx bx-show"></i></a>
             </div>
           </div>
 
@@ -333,7 +284,7 @@
             <div class="portfolio-info">
               <h4>Design</h4>
               <p>Teenage Bedroom</p>
-              <a href="assets/img/portfolio/proyek/desain/desain3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Teenage from Design (Example)"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/desain/desain3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Teenage from Design (Example)"><i class="bx bx-show"></i></a>
             </div>
           </div>
 
@@ -342,7 +293,7 @@
             <div class="portfolio-info">
               <h4>Project Manado - Bitung</h4>
               <p>Upstairs Section</p>
-              <a href="assets/img/portfolio/proyek/bitung/bitung6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Upstairs Section from Project Manado - Bitung"><p>View &nbsp&nbsp&nbsp</p></a>
+              <a href="assets/img/portfolio/proyek/bitung/bitung6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Upstairs Section from Project Manado - Bitung"><i class="bx bx-show"></i></a>
             </div>
           </div>
         </div>
